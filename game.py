@@ -1,5 +1,5 @@
 import time
-
+x = 1
 # Define a function to print a colored message
 def print_color(text, color):
     print(f"\033[{color}m{text}\033[0m")
